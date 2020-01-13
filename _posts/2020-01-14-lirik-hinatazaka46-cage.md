@@ -1,7 +1,7 @@
 ---
 title: Lirik Hinatazaka46 - Cage (Sangkar)
 tags: Lirik Hinatazaka46
-key: 20200113a
+key: 20200114a
 ---
 
 Cage adalah lagu Hinatazaka46 dalam track single ke-2 mereka (Doremisolasido). Lagu ini dinyanyikan oleh 4 member Hinatazaka46 (ex Hiragana Keyakizaka46) yaitu Higashimura Mei, Kanemura Miku, Kawata Hina, dan Nibu Akari.
