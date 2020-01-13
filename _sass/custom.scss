@@ -1,0 +1,8 @@
+/* start custom scss snippet */
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+/* end custom scss snippet */
