@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  id      : &ID      About
   # @end locale config
 key: page-about
 permalink: /about/

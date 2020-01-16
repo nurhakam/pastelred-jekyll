@@ -1,7 +1,7 @@
 # @start locale config
-## => English
+## => Bahasa
 ########################
-en: &EN
+id: &ID
   SUBSCRIBE               : "Subscribe"
   READMORE                : "Read more"
   SEARCH                  : "Search"
