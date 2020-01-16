@@ -82,6 +82,12 @@ search:
   provider: default
 
 
+## => Webmaster Verifications
+##############################
+webmaster_verifications:
+    google: b-KdCxvA9LFa2Msq0m9VwS_jp0Qh0iHo4VGsXBF6VTM
+
+
 ## => Analytics
 ##############################
 analytics:
