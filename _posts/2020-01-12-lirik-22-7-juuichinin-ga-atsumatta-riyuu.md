@@ -2,8 +2,9 @@
 title: Lirik 22/7 - Juuichinin ga Atsumatta Riyuu (Alasan Sebelas dari Kita Bersama)
 tags: Lirik 22/7
 key: 20200112a
+permalink: /lyric/:title:output_ext
 ---
-Juuichinin ga Atsumatta Riyuu adalah lagu coupling single pertama 22/7 (Boku wa Sonzai Shiteinakatta). Lagu ini merupakan lagu 22/7 pertama yang dinyanyikan oleh kesebelas member.
+Lirik lagu Juuichinin ga Atsumatta Riyuu 22/7 [terjemahan](#terjemahan) Bahasa Indonesia. Juuichinin ga Atsumatta Riyuu adalah coupling song single pertama 22/7 (Boku wa Sonzai Shiteinakatta). Lagu ini merupakan lagu 22/7 pertama yang dinyanyikan oleh kesebelas member. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Dengarkan lagu Juuichinin ga Atsumatta Riyuu [disini](#dengarkan).
 
 <!--more-->
 
@@ -20,7 +21,51 @@ Juuichinin ga Atsumatta Riyuu adalah lagu coupling single pertama 22/7 (Boku wa 
 
 ## Terjemahan
 
-<details><summary><div class="button button--outline-info button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Kanji</div></summary>
+### Bahasa Indonesia
+<details open><summary><div class="button button--outline-error button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
+Sejak kapan kita sudah bersama?<br>
+Awalnya kita semua tak saling mengenal<br>
+Dengan canggungnya selalu melihat kebawah<br>
+Mungkin kita ini hanya sekumpulan pemalu<br>
+<br>
+Sejak kapan kita sudah bersama?<br>
+Bukan karena orang dewasa yang menyuruh kita<br>
+Tetapi untuk pertama kalinya<br>
+Kita berani untuk membuka diri ke dunia yang luas<br>
+<br>
+Jadi, mulai sekarang apa yang harus kita lakukan?<br>
+11 dari kita merasa bisa melakukan apapun<br>
+<br>
+Dengan memahami mimpi kita<br>
+Kita pun tersenyum<br>
+<br>
+Sejak kapan kita sudah bersama?<br>
+Kita sama-sama tidak menyukai keramaian<br>
+Namun terlepas dari itu, bersama kalian<br>
+Entah bagaimana membuatku bahagia<br>
+<br>
+Jadi, mulai sekarang kemana kita harus pergi?<br>
+Hati pendiam kita berteriak<br>
+Berdiri berdampingan dan berpegangan tangan<br>
+11 dari kita merasa bisa pergi kemanapun<br>
+<br>
+Menuju esok hari<br>
+Kita mengambil langkah kedepan<br>
+<br>
+Jadi, mulai sekarang kemana kita harus pergi?<br>
+Sampai saat ini, kita terus hidup sendirian, tapi<br>
+Kita semua disatukan oleh takdir ini<br>
+Hari dimana 11 dari kita mulai mengerti alasannya<br>
+<br>
+Mimpi itu selalu<br>
+Tepat di depan mata kita<br>
+<br>
+Akhirnya, kita bisa bertemu<br>
+Kita mengambil langkah kedepan<br>
+</details>
+
+### Kanji
+<details><summary><div class="button button--outline-info button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
 いつのまに　集まったんだ？<br>
 会ったことない誰かたち<br>
 ぎこちなく俯(うつむ)いている<br>
@@ -63,7 +108,8 @@ Juuichinin ga Atsumatta Riyuu adalah lagu coupling single pertama 22/7 (Boku wa 
 <br>
 </details>
 
-<details><summary><div class="button button--outline-success button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Romanji</div></summary>
+### Romanji
+<details><summary><div class="button button--outline-success button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
 Itsunomani atsumatta nda?<br>
 atta koto nai dareka tachi<br>
 gikochinaku utsumu ite iru<br>
@@ -104,48 +150,6 @@ bokura no mae ni aru<br>
 yatto deaeta<br>
 bokura wa arukidasu<br>
 <br>
-</details>
-
-<details open><summary><div class="button button--outline-error button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Bahasa Indonesia</div></summary>
-Sejak kapan kita sudah bersama?<br>
-Awalnya kita semua tak saling mengenal<br>
-Dengan canggungnya selalu melihat kebawah<br>
-Mungkin kita ini hanya sekumpulan pemalu<br>
-<br>
-Sejak kapan kita sudah bersama?<br>
-Bukan karena orang dewasa yang menyuruh kita<br>
-Tetapi untuk pertama kalinya<br>
-Kita berani untuk membuka diri ke dunia yang luas<br>
-<br>
-Jadi, mulai sekarang apa yang harus kita lakukan?<br>
-11 dari kita merasa bisa melakukan apapun<br>
-<br>
-Dengan memahami mimpi kita<br>
-Kita pun tersenyum<br>
-<br>
-Sejak kapan kita sudah bersama?<br>
-Kita sama-sama tidak menyukai keramaian<br>
-Namun terlepas dari itu, bersama kalian<br>
-Entah bagaimana membuatku bahagia<br>
-<br>
-Jadi, mulai sekarang kemana kita harus pergi?<br>
-Hati pendiam kita berteriak<br>
-Berdiri berdampingan dan berpegangan tangan<br>
-11 dari kita merasa bisa pergi kemanapun<br>
-<br>
-Menuju esok hari<br>
-Kita mengambil langkah kedepan<br>
-<br>
-Jadi, mulai sekarang kemana kita harus pergi?<br>
-Sampai saat ini, kita terus hidup sendirian, tapi<br>
-Kita semua disatukan oleh takdir ini<br>
-Hari dimana 11 dari kita mulai mengerti alasannya<br>
-<br>
-Mimpi itu selalu<br>
-Tepat di depan mata kita<br>
-<br>
-Akhirnya, kita bisa bertemu<br>
-Kita mengambil langkah kedepan<br>
 </details>
 
 ## Dengarkan

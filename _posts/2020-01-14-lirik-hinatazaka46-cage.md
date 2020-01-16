@@ -2,9 +2,10 @@
 title: Lirik Hinatazaka46 - Cage (Sangkar)
 tags: Lirik Hinatazaka46
 key: 20200114a
+permalink: /lyric/:title:output_ext
 ---
 
-Cage adalah lagu Hinatazaka46 dalam track single ke-2 mereka (Doremisolasido). Lagu ini dinyanyikan oleh 4 member Hinatazaka46 (ex Hiragana Keyakizaka46) yaitu Higashimura Mei, Kanemura Miku, Kawata Hina, dan Nibu Akari.
+Lirik lagu Cage Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Cage adalah salah satu lagu dalam track single ke-2 Hinatazaka46 (Doremisolasido). Lagu ini dinyanyikan oleh 4 member Hinatazaka46 (ex Hiragana Keyakizaka46) yaitu Higashimura Mei, Kanemura Miku, Kawata Hina, dan Nibu Akari. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Cage [disini](#dengarkan).
 
 <!--more-->
 
@@ -24,140 +25,8 @@ Cage adalah lagu Hinatazaka46 dalam track single ke-2 mereka (Doremisolasido). L
 
 ## Terjemahan 
 
-<details><summary><div class="button button--outline-info button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Kanji</div></summary>
-世界から 空がなくなってしまえばいいと思った<br>
-そうしたら 僕はもうあの空を駆け巡る鳥たちを羨むことはないんだ<br>
-空を飛んだってしょうがない<br>
-僕は 鳥籠の中でいつもより大きな声で泣いた<br>
-<br>
-瞼 閉じてしまえば 見えなくなるって<br>
-わかってはいるけど勇気がなかった<br>
-天井の染み眺めてると 何かしら意味あるように<br>
-思えてしまう 一人の真夜中<br>
-<br>
-どうせ醒めるならば どんな素晴らしい夢だって見たくないんだ<br>
-現実に戻るのがきっと怖くなるから<br>
-それならいっそ寝返りを繰り返して どうにか諦めた方がいい<br>
-ベッドからもう起きようか<br>
-<br>
-どうして頑張らなきゃいけないんだ?<br>
-Oh…<br>
-<br>
-自由はどこにある? そうだ いつだって目の前にあるんだ<br>
-もう 何も邪魔するものない 好きなことやればいい<br>
-自分が勝手に縛られて ルールや常識の外へ出ないだけ<br>
-存在などしてない 想像のCage<br>
-Wow…<br>
-<br>
-もしも 鳥籠の窓 開けてしまったら<br>
-逃げ出した鳥はどこへと飛んで行く?<br>
-空の向こうに行きたい場所 叶えたい願いや夢が<br>
-あると言うなら それもいいけど・・・<br>
-<br>
-僕が作り上げたただの思い込みを信じてただけなのかな<br>
-ここを出られないなんて被害者意識だった<br>
-見えない籠に閉じ込められている方が都合がよかったんだろう?<br>
-カーテンをまた閉めようか<br>
-<br>
-日差しが昨日よりも眩しかった<br>
-Oh…<br>
-<br>
-世界は広いんだ きっと まだ知らない何かがあるはず<br>
-そう探してみる価値はあるよ ここから飛び出そう<br>
-誰にも僕を止められない 強い風が遠くから吹くように・・・<br>
-自分を試したくて 壊されたCage<br>
-<br>
-人はみな そこから動かないけど<br>
-誰も何も束縛してないんだ<br>
-傷つく可能性 不安だけで諦めている<br>
-籠の鳥よ
-<br>
-Oh…<br>
-<br>
-どこかに飛びたいよ だって ほら背中に翼があることに<br>
-気づいてしまったんだ<br>
-ここにいてじっとしてた方が<br>
-安全だって言われたって羽ばたいてみたい<br>
-Wow…<br>
-今すぐ<br>
-<br>
-自由はどこにある? そうだ いつだって目の前にあるんだ<br>
-もう 何も邪魔するものない 好きなことやればいい<br>
-自分が勝手に縛られて ルールや常識の外へ出ないだけ<br>
-存在などしてない 想像のCage<br>
-<br>
-Wow…<br>
-Wow…<br>
-<br>
-</details>
-
-<details><summary><div class="button button--outline-success button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Romanji</div></summary>
-sekai kara sora ga nakunatte shimaeba ii to omotta<br>
-sou shitara boku wa mou ano sora wo kakemeguru toritachi wo urayamu koto wa nain da<br>
-sora wo tondatte shou ga nai<br>
-boku wa torikago no naka de itsumo yori ookina koe de naita<br>
-<br>
-mabuta tojite shimaeba mienakunaru tte<br>
-wakatte wa iru kedo yuuki ga nakatta<br>
-tenjou no shimi nagameteru to nani kashira imi aru you ni<br>
-omoete shimau hitori no mayonaka<br>
-<br>
-douse sameru naraba donna subarashii yume datte mitakunain da<br>
-genjitsu ni modoru no ga kitto kowaku naru kara<br>
-sore nara isso negaeri wo kurikaeshite dou ni ka akirameta hou ga ii<br>
-beddo kara mou okiyou ka<br>
-<br>
-doushite ganbaranakya ikenain da?<br>
-Oh…<br>
-<br>
-jiyuu wa doko ni aru? sou da itsudatte me no mae ni arun da<br>
-mou nanimo jama suru mono nai suki na koto yareba ii<br>
-jibun ga katte ni shibararete ruuru ya joushiki no soto e denai dake<br>
-sonzai nado shitenai souzou no Cage<br>
-Wow…<br>
-<br>
-moshimo torikago no mado akete shimattara<br>
-nigedashita tori wa doko e to tonde yuku?<br>
-sora no mukou ni ikitai basho kanaetai negai ya yume ga<br>
-aru to iu nara soremo ii kedo…<br>
-<br>
-boku ga tsukuriageta tada no omoikomi wo shinjiteta dake na no ka na<br>
-koko wo derarenai nante higaisha ishiki datta<br>
-mienai kago ni tojikomerareteiru hou ga tsugou ga yokattan darou?<br>
-kaaten wo mata shimeyou ka<br>
-<br>
-hizashi ga kinou yori mo mabushikatta<br>
-Oh…<br>
-<br>
-sekai wa hiroin da kitto mada shiranai nanika ga aru hazu<br>
-sou sagashite miru kachi wa aru yo koko kara tobidasou<br>
-dare ni mo boku wo tomerarenai tsuyoi kaze ga tooku kara fuku you ni…<br>
-jibun wo tameshitakute kowasareta Cage<br>
-<br>
-hito wa mina soko kara ugokanai kedo<br>
-dare mo nanimo sokubaku shitenain da<br>
-kizutsuku kanousei fuan dake de akirameteiru<br>
-kagonotori yo<br>
-Oh…<br>
-<br>
-dokoka ni tobitai yo datte hora senaka ni tsubasa ga aru koto ni<br>
-kizuite shimattan da<br>
-koko ni ite jitto shiteta hou ga<br>
-anzen datte iwaretatte habataite mitai<br>
-Wow…<br>
-ima sugu<br>
-<br>
-jiyuu wa doko ni aru? sou da itsudatte me no mae ni arun da<br>
-mou nanimo jama suru mono nai suki na koto yareba ii<br>
-jibun ga katte ni shibararete ruuru ya joushiki no soto e denai dake<br>
-sonzai nado shitenai souzou no Cage<br>
-<br>
-Wow…<br>
-Wow…<br>
-<br>
-</details>
-
-<details open><summary><div class="button button--outline-error button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Bahasa Indonesia</div></summary>
+### Bahasa Indonesia
+<details open><summary><div class="button button--outline-error button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
 Aku berharap langit menghilang dari dunia ini<br>
 Jika itu terjadi,<br>
 Aku tak akan iri dengan burung yang sedang bergegas kesana<br>
@@ -238,6 +107,141 @@ Sebuah sangkar ilusi<br>
 <br>
 Wow...<br>
 Wow...<br>
+</details>
+
+### Kanji
+<details><summary><div class="button button--outline-info button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
+世界から 空がなくなってしまえばいいと思った<br>
+そうしたら 僕はもうあの空を駆け巡る鳥たちを羨むことはないんだ<br>
+空を飛んだってしょうがない<br>
+僕は 鳥籠の中でいつもより大きな声で泣いた<br>
+<br>
+瞼 閉じてしまえば 見えなくなるって<br>
+わかってはいるけど勇気がなかった<br>
+天井の染み眺めてると 何かしら意味あるように<br>
+思えてしまう 一人の真夜中<br>
+<br>
+どうせ醒めるならば どんな素晴らしい夢だって見たくないんだ<br>
+現実に戻るのがきっと怖くなるから<br>
+それならいっそ寝返りを繰り返して どうにか諦めた方がいい<br>
+ベッドからもう起きようか<br>
+<br>
+どうして頑張らなきゃいけないんだ?<br>
+Oh…<br>
+<br>
+自由はどこにある? そうだ いつだって目の前にあるんだ<br>
+もう 何も邪魔するものない 好きなことやればいい<br>
+自分が勝手に縛られて ルールや常識の外へ出ないだけ<br>
+存在などしてない 想像のCage<br>
+Wow…<br>
+<br>
+もしも 鳥籠の窓 開けてしまったら<br>
+逃げ出した鳥はどこへと飛んで行く?<br>
+空の向こうに行きたい場所 叶えたい願いや夢が<br>
+あると言うなら それもいいけど・・・<br>
+<br>
+僕が作り上げたただの思い込みを信じてただけなのかな<br>
+ここを出られないなんて被害者意識だった<br>
+見えない籠に閉じ込められている方が都合がよかったんだろう?<br>
+カーテンをまた閉めようか<br>
+<br>
+日差しが昨日よりも眩しかった<br>
+Oh…<br>
+<br>
+世界は広いんだ きっと まだ知らない何かがあるはず<br>
+そう探してみる価値はあるよ ここから飛び出そう<br>
+誰にも僕を止められない 強い風が遠くから吹くように・・・<br>
+自分を試したくて 壊されたCage<br>
+<br>
+人はみな そこから動かないけど<br>
+誰も何も束縛してないんだ<br>
+傷つく可能性 不安だけで諦めている<br>
+籠の鳥よ
+<br>
+Oh…<br>
+<br>
+どこかに飛びたいよ だって ほら背中に翼があることに<br>
+気づいてしまったんだ<br>
+ここにいてじっとしてた方が<br>
+安全だって言われたって羽ばたいてみたい<br>
+Wow…<br>
+今すぐ<br>
+<br>
+自由はどこにある? そうだ いつだって目の前にあるんだ<br>
+もう 何も邪魔するものない 好きなことやればいい<br>
+自分が勝手に縛られて ルールや常識の外へ出ないだけ<br>
+存在などしてない 想像のCage<br>
+<br>
+Wow…<br>
+Wow…<br>
+<br>
+</details>
+
+### Romanji
+<details><summary><div class="button button--outline-success button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
+sekai kara sora ga nakunatte shimaeba ii to omotta<br>
+sou shitara boku wa mou ano sora wo kakemeguru toritachi wo urayamu koto wa nain da<br>
+sora wo tondatte shou ga nai<br>
+boku wa torikago no naka de itsumo yori ookina koe de naita<br>
+<br>
+mabuta tojite shimaeba mienakunaru tte<br>
+wakatte wa iru kedo yuuki ga nakatta<br>
+tenjou no shimi nagameteru to nani kashira imi aru you ni<br>
+omoete shimau hitori no mayonaka<br>
+<br>
+douse sameru naraba donna subarashii yume datte mitakunain da<br>
+genjitsu ni modoru no ga kitto kowaku naru kara<br>
+sore nara isso negaeri wo kurikaeshite dou ni ka akirameta hou ga ii<br>
+beddo kara mou okiyou ka<br>
+<br>
+doushite ganbaranakya ikenain da?<br>
+Oh…<br>
+<br>
+jiyuu wa doko ni aru? sou da itsudatte me no mae ni arun da<br>
+mou nanimo jama suru mono nai suki na koto yareba ii<br>
+jibun ga katte ni shibararete ruuru ya joushiki no soto e denai dake<br>
+sonzai nado shitenai souzou no Cage<br>
+Wow…<br>
+<br>
+moshimo torikago no mado akete shimattara<br>
+nigedashita tori wa doko e to tonde yuku?<br>
+sora no mukou ni ikitai basho kanaetai negai ya yume ga<br>
+aru to iu nara soremo ii kedo…<br>
+<br>
+boku ga tsukuriageta tada no omoikomi wo shinjiteta dake na no ka na<br>
+koko wo derarenai nante higaisha ishiki datta<br>
+mienai kago ni tojikomerareteiru hou ga tsugou ga yokattan darou?<br>
+kaaten wo mata shimeyou ka<br>
+<br>
+hizashi ga kinou yori mo mabushikatta<br>
+Oh…<br>
+<br>
+sekai wa hiroin da kitto mada shiranai nanika ga aru hazu<br>
+sou sagashite miru kachi wa aru yo koko kara tobidasou<br>
+dare ni mo boku wo tomerarenai tsuyoi kaze ga tooku kara fuku you ni…<br>
+jibun wo tameshitakute kowasareta Cage<br>
+<br>
+hito wa mina soko kara ugokanai kedo<br>
+dare mo nanimo sokubaku shitenain da<br>
+kizutsuku kanousei fuan dake de akirameteiru<br>
+kagonotori yo<br>
+Oh…<br>
+<br>
+dokoka ni tobitai yo datte hora senaka ni tsubasa ga aru koto ni<br>
+kizuite shimattan da<br>
+koko ni ite jitto shiteta hou ga<br>
+anzen datte iwaretatte habataite mitai<br>
+Wow…<br>
+ima sugu<br>
+<br>
+jiyuu wa doko ni aru? sou da itsudatte me no mae ni arun da<br>
+mou nanimo jama suru mono nai suki na koto yareba ii<br>
+jibun ga katte ni shibararete ruuru ya joushiki no soto e denai dake<br>
+sonzai nado shitenai souzou no Cage<br>
+<br>
+Wow…<br>
+Wow…<br>
+<br>
 </details>
 
 ## Dengarkan

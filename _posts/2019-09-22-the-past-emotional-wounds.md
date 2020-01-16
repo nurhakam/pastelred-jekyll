@@ -2,6 +2,7 @@
 title: The Past Emotional Wounds
 tags: Blog Mental-Health
 key: 20190922a
+permalink: /blog/:title:output_ext
 ---
 
 Healing past emotional wounds that build up ever since is the bravest breaking-point somebody can do, it isn’t one night job but a life time journey. The journey begins after somebody realizes that the things that is necessary for us to grow is to let go the past and break the unhealthy pattern we create over and over again. Within self-realization come self-awareness, then it teach us about our own responsibility to ourselves.

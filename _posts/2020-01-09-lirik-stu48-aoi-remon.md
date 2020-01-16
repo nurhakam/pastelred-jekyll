@@ -2,8 +2,9 @@
 title: Lirik STU48 - Aoi Remon (Lemon Hijau)
 tags: Lirik STU48
 key: 20200109a
+permalink: /lyric/:title:output_ext
 ---
-Aoi remon adalah lagu coupling single ke-3 STU48 (Daisuki na Hito). Lagu ini masuk kedalam track CD Theater Edition dan dinyanyikan oleh 3 member STU48 yaitu Okada Nana, Kadowaki Miyuna, dan Yano Honoka.
+Lirik lagu Aoi Remon STU48 [terjemahan](#terjemahan) Bahasa Indonesia. Aoi remon adalah coupling song single ke-3 STU48 (Daisuki na Hito). Lagu ini masuk kedalam track CD Theater Edition dan dinyanyikan oleh 3 member STU48 yaitu Okada Nana, Kadowaki Miyuna, dan Yano Honoka. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Dengarkan melalui [Souncloud](#dengarkan).
 
 <!--more-->
 
@@ -21,7 +22,53 @@ Aoi remon adalah lagu coupling single ke-3 STU48 (Daisuki na Hito). Lagu ini mas
 
 ## Terjemahan 
 
-<details><summary><div class="button button--outline-info button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Kanji</div></summary>
+### Bahasa Indonesia
+<details open><summary><div class="button button--outline-error button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
+"Aku menyukai buah lemon yang belum matang<br>
+Sudah berapa banyak yang kumakan sejak aku lahir?"<br>
+<br>
+Lemon hijau di air keran yang mengalir<br>
+Menciprat saat kucuci, lalu berlahan kugigit<br>
+Ah asam dan pahit<br>
+Aku menahan rasanya<br>
+<br>
+Tiba-tiba aku ingin mulai berlari<br>
+Masa muda itu tentang aksi tanpa alasan<br>
+Dan walaupun jawabannya masih tak dapat kutemukan<br>
+Aku akan terus menanyakannya pada langit<br>
+Kenapa aku dilahirkan?<br>
+Apa alasan diriku hidup?<br>
+<br>
+"Masa muda itu seperti saat aku menggigit keras lemon hijau dan airnya menetes keluar<br>
+jika sedikit menetes ke tanah dan menodai seragamku, memang apa peduli ku!”<br>
+<br>
+Kau melemparkannya kepadaku kan<br>
+Tercium aroma lemon hijau yang baru dipetik...<br>
+Ah pertemanan<br>
+Tanpa disadari ternyata kita mulai dewasa<br>
+<br>
+Kita berbicara sampai matahari terbit<br>
+Serasa seperti masih ada banyak waktu sebelum kita lulus<br>
+Aku masih juga tak bisa memikirkan masa depanku<br>
+Aku hanya ingin mengejar impianku<br>
+Sambil memalingkan mata dari realitas yang ada<br>
+Menurutmu untuk siapa aku ini mengejar mimpi?<br>
+<br>
+Disana terdapat sebuah pohon lemon<br>
+Aku masih mengingat bunga warna putihnya<br>
+<br>
+Dan walaupun jawabannya masih tak dapat kutemukan<br>
+Aku akan terus menanyakannya pada langit<br>
+Kenapa diriku dilahirkan?<br>
+Apa alasan diriku hidup?<br>
+<br>
+"Aku telah menghabiskan sebuah lemon hijau<br>
+Dan diriku dipenuhi rasa bahagia<br>
+Rasanya asam dan pahit, itulah kehidupan!"<br>
+</details>
+
+### Kanji
+<details><summary><div class="button button--outline-info button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
 「熟していない青い檸檬が僕は好きだ<br>
 生まれてから僕はもう何個　齧っただろう？」<br>
 <br>
@@ -65,7 +112,8 @@ Aoi remon adalah lagu coupling single ke-3 STU48 (Daisuki na Hito). Lagu ini mas
 <br>
 </details>
 
-<details><summary><div class="button button--outline-success button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Romanji</div></summary>
+### Romanji
+<details><summary><div class="button button--outline-success button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
 "juku shite inai aoi remon ga boku wa suki da<br>
 umarete kara boku wa mou nan ko    kajitta darou?"<br>
 <br>
@@ -107,50 +155,6 @@ nan no tame ni ikite iru to iu no ka?<br>
 boku wa koufukukan ni mitasareru<br>
 suppasa mo nigasa mo jinsei nanda"<br>
 <br>
-</details>
-
-<details open><summary><div class="button button--outline-error button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Bahasa Indonesia</div></summary>
-"Aku menyukai buah lemon yang belum matang<br>
-Sudah berapa banyak yang kumakan sejak aku lahir?"<br>
-<br>
-Lemon hijau di air keran yang mengalir<br>
-Menciprat saat kucuci, lalu berlahan kugigit<br>
-Ah asam dan pahit<br>
-Aku menahan rasanya<br>
-<br>
-Tiba-tiba aku ingin mulai berlari<br>
-Masa muda itu tentang aksi tanpa alasan<br>
-Dan walaupun jawabannya masih tak dapat kutemukan<br>
-Aku akan terus menanyakannya pada langit<br>
-Kenapa aku dilahirkan?<br>
-Apa alasan diriku hidup?<br>
-<br>
-"Masa muda itu seperti saat aku menggigit keras lemon hijau dan airnya menetes keluar<br>
-jika sedikit menetes ke tanah dan menodai seragamku, memang apa peduli ku!”<br>
-<br>
-Kau melemparkannya kepadaku kan<br>
-Tercium aroma lemon hijau yang baru dipetik...<br>
-Ah pertemanan<br>
-Tanpa disadari ternyata kita mulai dewasa<br>
-<br>
-Kita berbicara sampai matahari terbit<br>
-Serasa seperti masih ada banyak waktu sebelum kita lulus<br>
-Aku masih juga tak bisa memikirkan masa depanku<br>
-Aku hanya ingin mengejar impianku<br>
-Sambil memalingkan mata dari realitas yang ada<br>
-Menurutmu untuk siapa aku ini mengejar mimpi?<br>
-<br>
-Disana terdapat sebuah pohon lemon<br>
-Aku masih mengingat bunga warna putihnya<br>
-<br>
-Dan walaupun jawabannya masih tak dapat kutemukan<br>
-Aku akan terus menanyakannya pada langit<br>
-Kenapa diriku dilahirkan?<br>
-Apa alasan diriku hidup?<br>
-<br>
-"Aku telah menghabiskan sebuah lemon hijau<br>
-Dan diriku dipenuhi rasa bahagia<br>
-Rasanya asam dan pahit, itulah kehidupan!"<br>
 </details>
 
 ## Dengarkan

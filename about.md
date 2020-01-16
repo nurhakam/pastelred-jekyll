@@ -5,6 +5,7 @@ titles:
   en      : &EN       About
   # @end locale config
 key: page-about
+permalink: /about/
 ---
 
 Hey there! My name is Hakam. This site is my personal blog. Sometimes I will post some of my thoughts here and I hope you enjoy reading it.
