@@ -1,5 +1,5 @@
 ---
-title: Lirik Nogizaka46 - Koko ni Iru Riyuu (Alasan Berada Disini)
+title: Lirik Nogizaka46 - Koko ni Iru Riyuu (Alasan Untuk Berada Disini)
 tags: Lirik Nogizaka46
 key: 20200117a
 description: Lirik lagu Koko ni Iru Riyuu Nogizaka46 terjemahan Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song Nogizaka46 9th single dan 4th album.
@@ -13,7 +13,7 @@ Lirik lagu Koko ni Iru Riyuu Nogizaka46 [terjemahan](#terjemahan) Bahasa Indones
 | -------- | -------- |
 | ![Nogizaka46 9th Single Type C](/assets/images/nogizaka46-9th-single-type-c.jpg "Nogizaka46 9th Single Type C") | ![Nogizaka46 4th Album Limited Edition](/assets/images/nogizaka46-4th-album-limited-edition.jpg "Nogizaka46 4th Album Limited Edition") |
 
-- Judul : ここにいる理由 (Koko ni Iru Riyuu / The Reason for Being Here / Alasan Berada Disini)
+- Judul : ここにいる理由 (Koko ni Iru Riyuu / The Reason for Being Here / Alasan Untuk Berada Disini)
 - Oleh : Under Members
 	- 1st Generation: Ichiki Rena, Ito Nene, Ito Marika, Kawago Hina, Kawamura Mahiro, Saito Asuka, Saito Chiharu, Nagashima Seira, Nakada Kana, Nakamoto Himeka, Noujou Ami, Hatanaka Seira, Higuchi Hina, Wada Maaya
 	- 2nd Generation: Kitano Hinako, Shinuchi Mai
