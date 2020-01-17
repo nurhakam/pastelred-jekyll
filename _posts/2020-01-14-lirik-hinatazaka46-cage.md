@@ -2,12 +2,11 @@
 title: Lirik Hinatazaka46 - Cage (Sangkar)
 tags: Lirik Hinatazaka46
 key: 20200114a
+description: Lirik lagu Cage Hinatazaka46 terjemahan Bahasa Indonesia. Cage adalah salah satu lagu dalam track single ke-2 Hinatazaka46 (Doremisolasido).
 permalink: /lyric/:title:output_ext
 ---
 
-Lirik lagu Cage Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Cage adalah salah satu lagu dalam track single ke-2 Hinatazaka46 (Doremisolasido). Lagu ini dinyanyikan oleh 4 member Hinatazaka46 (ex Hiragana Keyakizaka46) yaitu Higashimura Mei, Kanemura Miku, Kawata Hina, dan Nibu Akari. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Cage [disini](#dengarkan).
-
-<!--more-->
+Lirik lagu Cage Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Cage adalah salah satu lagu dalam track single ke-2 Hinatazaka46 (Doremisolasido). Lagu ini dinyanyikan oleh 4 member Hinatazaka46 (ex Hiragana Keyakizaka46) yaitu Higashimura Mei, Kanemura Miku, Kawata Hina, dan Nibu Akari.<!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Cage [disini](#dengarkan).
 
 ## Tentang
 
@@ -107,6 +106,7 @@ Sebuah sangkar ilusi<br>
 <br>
 Wow...<br>
 Wow...<br>
+<br>
 </details>
 
 ### Kanji

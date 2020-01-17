@@ -2,11 +2,12 @@
 title: Lirik STU48 - Aoi Remon (Lemon Hijau)
 tags: Lirik STU48
 key: 20200109a
+description: Lirik lagu Aoi Remon STU48 terjemahan Bahasa Indonesia. Berikut terjemahan lirik Aoi Remon STU48 dalam Bahasa Indonesia, beserta lirik aslinya.
 permalink: /lyric/:title:output_ext
 ---
-Lirik lagu Aoi Remon STU48 [terjemahan](#terjemahan) Bahasa Indonesia. Aoi remon adalah coupling song single ke-3 STU48 (Daisuki na Hito). Lagu ini masuk kedalam track CD Theater Edition dan dinyanyikan oleh 3 member STU48 yaitu Okada Nana, Kadowaki Miyuna, dan Yano Honoka. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Dengarkan melalui [Souncloud](#dengarkan).
 
-<!--more-->
+Lirik lagu Aoi Remon STU48 [terjemahan](#terjemahan) Bahasa Indonesia. Aoi remon adalah coupling song single ke-3 STU48 (Daisuki na Hito). Lagu ini masuk kedalam track CD Theater Edition dan dinyanyikan oleh 3 member STU48 yaitu Okada Nana, Kadowaki Miyuna, dan Yano Honoka.<!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Dengarkan melalui [Souncloud](#dengarkan).
+
 
 ## Tentang
 
@@ -23,7 +24,7 @@ Lirik lagu Aoi Remon STU48 [terjemahan](#terjemahan) Bahasa Indonesia. Aoi remon
 ## Terjemahan 
 
 ### Bahasa Indonesia
-<details open><summary><div class="button button--outline-error button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
+<details open><summary><div class="button button--outline-error button--rounded my-2">Click Here</div></summary>
 "Aku menyukai buah lemon yang belum matang<br>
 Sudah berapa banyak yang kumakan sejak aku lahir?"<br>
 <br>

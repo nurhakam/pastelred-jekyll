@@ -1,7 +1,7 @@
 # @start locale config
-## => Bahasa
+## => English
 ########################
-id: &ID
+en: &EN
   SUBSCRIBE               : "Subscribe"
   READMORE                : "Read more"
   SEARCH                  : "Search"
@@ -20,4 +20,17 @@ id: &ID
   EMAIL_ME                : "Send me an Email."
   EMAIL_US                : "Send us an Email."
   COPYRIGHT_DATES         : "2020"
+
+en-GB:
+  <<: *EN
+en-US:
+  <<: *EN
+en-CA:
+  <<: *EN
+en-AU:
+  <<: *EN
+
+## => Bahasa
+########################
+id: *EN
 # @end locale config

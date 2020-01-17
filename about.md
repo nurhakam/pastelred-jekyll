@@ -5,6 +5,10 @@ titles:
   id      : &ID      About
   # @end locale config
 key: page-about
+lang: en
+description: I am a student, I seek anything to learn and experience, in a world that isn't centered around, far-far away from my own corner, to the other, the unknown.
+comment: false
+show_author_profile: false
 permalink: /about/
 ---
 

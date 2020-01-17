@@ -8,8 +8,8 @@ title   : Hakam
 tagline : under construction!
 description: >
   Hey there! My name is Hakam. This site is my personal blog. Sometimes I will post some of my thoughts here and I hope you enjoy reading it.
-  I am a student, I seek anything to learn and experience, in a world that isn’t centered around, far-far away from my own corner, to the other, the unknown.
-
+ 
+ 
 ## => Language and Timezone
 ##############################
 lang: id
@@ -21,11 +21,13 @@ timezone: Asia/Jakarta
 author:
   type      : person
   name      : Hakam
-  url       : hakam.my.id
-  avatar    : /assets/apple-touch-icon.png
-  bio       : Hey there! My name is Hakam. This site is my personal blog. Sometimes I will post some of my thoughts here and I hope you enjoy reading it.
+  url       : /
+  avatar    : /assets/images/hakam.jpg
+  bio       : >
+    Hey there! My name is Hakam. This site is my personal blog. Sometimes I will post some of my thoughts here and I hope you enjoy reading it.
   email     : hakam_@merahputih.id
   github    : nurhakam
+  instagram : syaifulnurh
 
 
 ## => GitHub Repository
@@ -61,7 +63,7 @@ paginate_path: /page:num # don't change this unless for special need
 
 ## => Sources
 ##############################
-sources: # bootcdn (default), unpkg
+sources: default
 
 
 ## => Comments

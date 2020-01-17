@@ -4,12 +4,14 @@ header:
 
   - titles:
       # @start locale config
-      id     : &ID       Archive
+      en     : &EN       Archive
+      id     : *EN
       # @end locale config
     url: /archive/
 
   - titles:
       # @start locale config
-      id      : &ID       About
+      en     : &EN       About
+      id     : *EN
       # @end locale config
     url: /about/

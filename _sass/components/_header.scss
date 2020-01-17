@@ -73,7 +73,7 @@
       height: map-get($base, font-size-h4) * 1.2;
     }
   }
-  & > a > h1 {
+  & > a {
     display: inline-block;
     font-size: map-get($base, font-size-h4);
     @include media-breakpoint-down(md) {

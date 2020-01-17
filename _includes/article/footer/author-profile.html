@@ -37,7 +37,7 @@
       {%- endif -%}
 
       {%- if _author.bio -%}
-        <p itemprop="description">{{ _author.bio }}</p>
+        <p itemprop="description">{{ _author.bio }}<a href="/about">Read more</a></p>
       {%- endif -%}
       <div class="author-profile__links">
         {%- include author-links.html author=_author -%}
