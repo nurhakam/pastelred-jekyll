@@ -5,7 +5,7 @@ default:
   paths:
     root: /
     home: /
-    archive:  /archive.html
+    archive:  /archive/
     rss:  /feed.xml
   toc:
     selectors: 'h1,h2,h3'
