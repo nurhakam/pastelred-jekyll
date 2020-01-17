@@ -6,7 +6,7 @@ description: Lirik lagu Koko ni Iru Riyuu Nogizaka46 terjemahan Bahasa Indonesia
 permalink: /lyric/:title:output_ext
 ---
 
-Lirik lagu Koko ni Iru Riyuu Nogizaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song dari Nogizaka46 9th single (Natsu no Free & Easy) yang dibawakan oleh Under Members. Lagu ini juga masuk kedalam track Nogizaka46 4th album (Boku Dake no Kimi ~Under Super Best~). <!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Koko ni Iru Riyuu *short ver.* dan *live performance* [disini](#dengarkan).
+Lirik lagu Koko ni Iru Riyuu Nogizaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song dari Nogizaka46 9th single (Natsu no Free & Easy) yang dibawakan oleh Under Members. Lagu ini juga masuk kedalam track Nogizaka46 4th album (Boku Dake no Kimi ~Under Super Best~). <!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Koko ni Iru Riyuu *short ver.* [disini](#dengarkan).
 
 ## Tentang
 
@@ -160,4 +160,3 @@ otagai wakatteru no ni...<br>
 
 ## Dengarkan
 <div>{%- include extensions/youtube.html id='lz7VEdDKthk' -%}</div>
-<div>{%- include extensions/bilibili.html id='av33201919' -%}</div>
