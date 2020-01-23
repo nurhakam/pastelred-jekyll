@@ -17,7 +17,7 @@ Lirik lagu Sonna Koto Nai yo Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indon
 	- 3rd Generation: Kamimura Hinano
 - Artist : 日向坂46 (Hinatazaka46)
 - Single : ソンナコトナイヨ (Sonna Koto Nai yo / Itu Tidak Benar)
-- Realese Date :
+- Realese Date : 2020.02.19
 
 ## Terjemahan 
 
