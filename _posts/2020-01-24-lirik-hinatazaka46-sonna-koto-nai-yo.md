@@ -6,7 +6,7 @@ description: Lirik lagu Sonna Koto Nai yo Hinatazaka46 terjemahan Bahasa Indones
 permalink: /lyric/:title:output_ext
 ---
 
-Lirik lagu Sonna Koto Nai yo Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama Hinatazaka46 4th single (Sonna Koto Nai yo), MV lagu ini dirilis setelah MV lagu coupling Seishun no Uma yang menjadi theme song drama terbaru Hinatazaka46 yaitu Dasada. Dengan genre pop rock, lagu Sonna Koto Nai yo memiliki warna berbeda dari single-single sebelumnya. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Sonna Koto Nai yo [disini](#dengarkan).
+Lirik lagu Sonna Koto Nai yo Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama Hinatazaka46 4th single (Sonna Koto Nai yo), MV lagu ini dirilis setelah MV lagu coupling Seishun no Uma yang menjadi theme song drama terbaru Hinatazaka46 yaitu DASADA. Dengan genre pop rock, lagu Sonna Koto Nai yo memiliki warna berbeda dari single-single sebelumnya. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Sonna Koto Nai yo [disini](#dengarkan).
 
 ## Tentang
 
