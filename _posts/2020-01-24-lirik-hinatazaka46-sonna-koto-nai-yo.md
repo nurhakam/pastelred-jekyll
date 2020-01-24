@@ -25,11 +25,11 @@ Lirik lagu Sonna Koto Nai yo Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indon
 <details open><summary><div class="button button--outline-error button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
 Angin musim semi tiba-tiba berhembus<br>
 Menyingkap lembut tirai jendela<br>
-Seolah-olah kau sedang tidak sehat<br>
-Terlihat dari pipimu<br>
+Kau terlihat sedang tidak sehat<br>
+Terlihat jelas dari pipimu<br>
 <br>
 Bekas rambut poni yang kau potong masih tampak<br>
-Seseorang mengatakan kepadaku kenapa kau tampak sedih<br>
+Seseorang mengatakan kepadaku kenapa kau terlihat sedih<br>
 Itu tidak benar, aku tidak berpikir demikian<br>
 Bagaimanapun dirimu, aku tetap menyukaimu<br>
 Itu tidak benar, aku ingin memelukmu<br>
@@ -39,18 +39,18 @@ Bukankah gadis dipantulannya tampak sangat menawan<br>
 <br>
 Itu tidak benar!<br>
 <br>
-Sinar matahari dan bayangannya<br>
-Lampu di lorong kelas yang bersinar<br>
+Suasana berhias sinar matahari dan bayangannya<br>
+Lampu di lorong kelas yang menyala<br>
 Berkedip setiap satu detik<br>
-Perasaan khas remaja<br>
+Perasaan khas masa muda<br>
 <br>
 Aku tahu aku seperti anak kecil<br>
-Ibuku memberitahuku bahwa aku akan segera tumbuh<br>
+Ibuku memberitahuku, aku akan segera tumbuh dewasa<br>
 Jangan khawatir, aku tidak membencinya<br>
 Dimana hal yang tidak kau suka<br>
 Jangan khawatir, kau selalu tampak menyilaukan<br>
 Aku sadar diriku menyukai orang terbaik di dunia<br>
-Ada banyak gadis cantik lain tetapi aku tidak ingin selain dirimu<br>
+Ada banyak gadis cantik lain tetapi aku tidak menginginkan selain dirimu<br>
 Lihatlah gadis yang ada di pantulan cermin itu dengan baik<br>
 <br>
 Aku sudah lama menyukaimu<br>
@@ -67,7 +67,7 @@ Aku menyukaimu, jangan pernah pergi<br>
 Hanya dirimu saja, bukan orang lain<br>
 Kau adalah tipe yang dapat bergaul dimanapun<br>
 Aku menyukaimu, jangan pernah pergi<br>
-Aku sangat mencintaimu karena kamu adalah dirimu<br>
+Aku menyukaimu karena kamu adalah dirimu<br>
 <br>
 </details>
 
