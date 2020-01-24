@@ -115,7 +115,7 @@ Ano e no onnanoko no you ni megahanasenai<br>
 Konna sukina nda itsu kara ka hamatteta<br>
 Donna kimi datte gakkari nanka shinai<br>
 <br>
-<p>Sonna koto nai yo boku wa sou omowanai<br>
+Sonna koto nai yo boku wa sou omowanai<br>
 Donna kimi datte tokimeite shimau yo<br>
 Sonna koto nai yo hagu shitaku naru hodo<br>
 Kurasu de ichiban kimi ga kawaii yo<br>
