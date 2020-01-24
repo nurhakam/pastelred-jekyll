@@ -2,21 +2,21 @@
 title: Lirik Hinatazaka46 - Sonna Koto Nai yo (Itu Tidak Benar)
 tags: Lirik Hinatazaka46
 key: 20200124a
-description: Lirik lagu Sonna Koto Nai yo Hinatazaka46 terjemahan Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama single ke-4  Hinatazaka46 (Sonna Koto Nai yo).
+description: Lirik lagu Sonna Koto Nai yo Hinatazaka46 terjemahan Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama single ke-4 Hinatazaka46 (Sonna Koto Nai yo).
 permalink: /lyric/:title:output_ext
 ---
 
-Lirik lagu Sonna Koto Nai yo Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Sonna Koto Nai yo [disini](#dengarkan).
+Lirik lagu Sonna Koto Nai yo Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama Hinatazaka46 4th single (Sonna Koto Nai yo), MV lagu ini dirilis setelah MV lagu coupling Seishun no Uma yang menjadi theme song drama terbaru Hinatazaka46 yaitu Dasada. Dengan genre pop rock, lagu Sonna Koto Nai yo memiliki warna berbeda dari single-single sebelumnya. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Sonna Koto Nai yo [disini](#dengarkan).
 
 ## Tentang
 
-- Judul : ソンナコトナイヨ (Sonna Koto Nai yo / Itu Tidak Benar)
+- Judul : ソンナコトナイヨ (Sonna Koto Nai yo / That's Not True / Itu Tidak Benar)
 - Oleh :
 	- 1st Generation: Ushio Sarina, Kato Shiho, Saito Kyoko, Sasaki Kumi, Sasaki Mirei, Takase Mana, Takamoto Ayaka, Higashimura Mei
 	- 2nd Generation: Kanemura Miku, Kawata Hina, Kosaka Nao, Tomita Suzuka, Nibu Akari, Hamagishi Hiyori, Matsuda Konoka, Miyata Manamo, Watanabe Miho
 	- 3rd Generation: Kamimura Hinano
 - Artist : 日向坂46 (Hinatazaka46)
-- Single : ソンナコトナイヨ (Sonna Koto Nai yo / Itu Tidak Benar)
+- Single : ソンナコトナイヨ (Sonna Koto Nai yo / That's Not True / Itu Tidak Benar) (4th single)
 - Realese Date : 2020.02.19
 
 ## Terjemahan 
