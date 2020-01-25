@@ -2,11 +2,11 @@
 title: Lirik Hinatazaka46 - Sonna Koto Nai yo (Itu Tidak Benar)
 tags: Lirik Hinatazaka46
 key: 20200124a
-description: Lirik lagu Sonna Koto Nai yo Hinatazaka46 terjemahan Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama single ke-4 Hinatazaka46 (Sonna Koto Nai yo).
+description: Lirik lagu Sonna Koto Nai yo oleh Hinatazaka46 terjemahan Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama single ke-4 Hinatazaka46 (Sonna Koto Nai yo).
 permalink: /lyric/:title:output_ext
 ---
 
-Lirik lagu Sonna Koto Nai yo Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama Hinatazaka46 4th single (Sonna Koto Nai yo), MV lagu ini dirilis setelah MV lagu coupling Seishun no Uma yang menjadi theme song drama terbaru Hinatazaka46 yaitu DASADA.<!--more-->  Dengan genre pop rock, lagu Sonna Koto Nai yo memiliki warna berbeda dari single-single sebelumnya. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Sonna Koto Nai yo [disini](#dengarkan).
+Lirik lagu Sonna Koto Nai yo oleh Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama Hinatazaka46 4th single (Sonna Koto Nai yo), MV lagu ini dirilis setelah MV lagu coupling Seishun no Uma yang menjadi theme song drama terbaru Hinatazaka46 yaitu DASADA.<!--more-->  Dengan genre pop rock, lagu Sonna Koto Nai yo memiliki warna berbeda dari single-single sebelumnya. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu (Hinatazaka) Sonna Koto Nai yo [disini](#dengarkan).
 
 ## Tentang
 

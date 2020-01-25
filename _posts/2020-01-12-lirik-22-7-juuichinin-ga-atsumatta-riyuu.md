@@ -2,11 +2,16 @@
 title: Lirik 22/7 - Juuichinin ga Atsumatta Riyuu (Alasan Sebelas dari Kita Bersama)
 tags: Lirik 22/7
 key: 20200112a
-description: Lirik lagu Juuichinin ga Atsumatta Riyuu 22/7 terjemahan Bahasa Indonesia. Juuichinin ga Atsumatta Riyuu coupling song single pertama 22/7.
+description: Lirik lagu Juuichinin ga Atsumatta Riyuu oleh 22/7 terjemahan Bahasa Indonesia. Juuichinin ga Atsumatta Riyuu coupling song single pertama 22/7.
 permalink: /lyric/:title:output_ext
 ---
 
-Lirik lagu Juuichinin ga Atsumatta Riyuu 22/7 [terjemahan](#terjemahan) Bahasa Indonesia. Juuichinin ga Atsumatta Riyuu adalah coupling song single pertama 22/7 (Boku wa Sonzai Shiteinakatta). Lagu ini merupakan lagu 22/7 pertama yang dinyanyikan oleh kesebelas member.<!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Dengarkan lagu Juuichinin ga Atsumatta Riyuu [disini](#dengarkan).
+Lirik lagu Juuichinin ga Atsumatta Riyuu oleh 22/7 [terjemahan](#terjemahan) Bahasa Indonesia. Juuichinin ga Atsumatta Riyuu adalah coupling song single pertama 22/7 (Boku wa Sonzai Shiteinakatta). Lagu ini merupakan lagu 22/7 pertama yang dinyanyikan oleh kesebelas member.<!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Dengarkan lagu Juuichinin ga Atsumatta Riyuu [disini](#dengarkan).
+
+Lagu lain dari 22/7 :
+1. [Juuichinin ga Atsumatta Riyuu](https://hakam.my.id/lyric/lirik-22-7-juuichinin-ga-atsumatta-riyuu.html) (Alasan Sebelas dari Kita Bersama)
+2. [Muzui](https://hakam.my.id/lyric/lirik-22-7-muzui.html) (Sulit)
+3. [Sora no Emerald](https://hakam.my.id/lyric/lirik-22-7-sora-no-emerald.html) (Langit Emerald)
 
 ## Tentang
 

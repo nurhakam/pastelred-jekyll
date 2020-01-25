@@ -2,11 +2,11 @@
 title: Lirik Nogizaka46 - Koko ni Iru Riyuu (Alasan Untuk Berada Disini)
 tags: Lirik Nogizaka46
 key: 20200117a
-description: Lirik lagu Koko ni Iru Riyuu Nogizaka46 terjemahan Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song Nogizaka46 9th single dan 4th album.
+description: Lirik lagu Koko ni Iru Riyuu oleh Nogizaka46 terjemahan Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song Nogizaka46 9th single dan 4th album.
 permalink: /lyric/:title:output_ext
 ---
 
-Lirik lagu Koko ni Iru Riyuu Nogizaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song dari Nogizaka46 9th single (Natsu no Free & Easy) yang dibawakan oleh Under Members. Lagu ini juga masuk kedalam track Nogizaka46 4th album (Boku Dake no Kimi ~Under Super Best~). <!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Koko ni Iru Riyuu *short ver.* [disini](#dengarkan).
+Lirik lagu Koko ni Iru Riyuu oleh Nogizaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song dari Nogizaka46 9th single (Natsu no Free & Easy) yang dibawakan oleh Under Members. Lagu ini juga masuk kedalam track Nogizaka46 4th album (Boku Dake no Kimi ~Under Super Best~). <!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu (Nogizaka) Koko ni Iru Riyuu *short ver.* [disini](#dengarkan).
 
 ## Tentang
 
