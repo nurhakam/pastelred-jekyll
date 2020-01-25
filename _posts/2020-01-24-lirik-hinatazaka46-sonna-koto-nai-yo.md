@@ -35,8 +35,8 @@ Itu tidak benar, aku tidak berpikir demikian<br>
 Bagaimanapun dirimu, aku tetap menyukaimu<br>
 Itu tidak benar, aku ingin memelukmu<br>
 Kau adalah orang paling cantik di kelas<br>
-Lihatlah dirimu di cermin dengan baik<br>
-Bukankah gadis dipantulannya tampak sangat menawan<br>
+Lihatlah dirimu di depan cermin dengan baik, itu terlihat cocok denganmu<br>
+Bukankah gadis dipantulan cermin itu tampak sangat menawan<br>
 <br>
 Itu tidak benar!<br>
 <br>
@@ -49,26 +49,26 @@ Aku tahu aku seperti anak kecil<br>
 Ibuku memberitahuku, aku akan segera tumbuh dewasa<br>
 <br>
 Jangan khawatir, aku tidak membencinya<br>
-Dimana hal yang tidak kau suka<br>
+Dimana hal yang tidak kau suka itu<br>
 Jangan khawatir, kau selalu tampak menyilaukan<br>
 Aku menyadari diriku menyukai orang terbaik di dunia<br>
 Ada banyak gadis cantik lain tetapi aku tidak menginginkan selain dirimu<br>
 Lihatlah gadis yang ada di pantulan cermin itu dengan baik<br>
 <br>
 Aku sudah lama menyukaimu<br>
-Apapun yang kau lakukan<br>
+Tidak peduli bagaimanapun dirimu<br>
 <br>
 Itu tidak benar, aku tidak berpikir demikian<br>
 Bagaimanapun dirimu, aku tetap menyukaimu<br>
 Itu tidak benar, aku ingin memelukmu<br>
 Kau adalah orang paling cantik di kelas<br>
-Lihatlah dirimu di cermin dengan baik<br>
-Bukankah gadis dipantulannya tampak sangat menawan<br>
+Lihatlah dirimu di depan cermin dengan baik, itu terlihat cocok denganmu<br>
+Bukankah gadis dipantulan cermin itu tampak sangat menawan<br>
 <br>
-Kau adalah tipe yang dapat bergaul dimanapun<br>
+Kau adalah tipe yang dapat berteman dengan siapapun<br>
 Aku menyukaimu, jangan pernah pergi<br>
 Hanya dirimu saja, bukan orang lain<br>
-Kau adalah tipe yang dapat bergaul dimanapun<br>
+Kau adalah tipe yang dapat berteman dengan siapapun<br>
 Aku menyukaimu, jangan pernah pergi<br>
 Aku menyukaimu karena kamu adalah dirimu<br>
 <br>
@@ -76,7 +76,54 @@ Aku menyukaimu karena kamu adalah dirimu<br>
 
 ### Kanji
 <details><summary><div class="button button--outline-info button--rounded my-2"><i class="fas fa-chevron-circle-down"></i> Click Here</div></summary>
-Coming soon...
+春の風が　不意に吹いて<br>
+窓のカーテンを膨らませた<br>
+まるで君が　拗ねた時の<br>
+ほっぺたみたいに<br>
+<br>
+切りすぎた前髪　奈良美智の絵だ<br>
+誰かに言われて　どうして落ち込んでるのかな<br>
+<br>
+ソンナコトナイヨ　僕はそう思わない<br>
+どんな君だって　ときめいてしまうよ<br>
+ソンナコトナイヨ　ハグしたくなるほど<br>
+クラスで１番　君が可愛いよ<br>
+ちゃんと鏡で自分見てごらん　本当似合ってるじゃないか<br>
+あの絵の女の子だって　チャーミングだろ<br>
+<br>
+ソンナコトナイヨ！<br>
+<br>
+さっきまでの　日差しと影<br>
+教室の床は光の地図<br>
+1秒ごとに　変わって行くよ<br>
+思春期の気持ち<br>
+<br>
+分かってはいたけど　子供っぽいよね<br>
+ママにも言われた　そのうちまたすぐ伸びてくるでしょ<br>
+<br>
+気になんてするな　僕は嫌いじゃない<br>
+どこが嫌なの　似合っているのに<br>
+気になんてするな　いつだって眩しい<br>
+世界で１番好きだと気付いた<br>
+他に綺麗な人はいるけど　僕は君でなきゃ嫌だ<br>
+あの絵の女の子のように　目が離せない<br>
+<br>
+こんな好きなんだ　いつからかハマってた<br>
+どんな君だって　ガッカリなんかしない<br>
+<br>
+ソンナコトナイヨ　僕はそう思わない<br>
+どんな君だって　ときめいてしまうよ<br>
+ソンナコトナイヨ　ハグしたくなるほど<br>
+クラスで１番　君が可愛いよ<br>
+ちゃんと鏡で自分見てごらん　本当似合ってるじゃないか<br>
+あの絵の女の子だって　チャーミングだろ<br>
+<br>
+どこにでもいるようなタイプなら<br>
+こんなに好きにはなれないよ<br>
+そう他にいないから君しかダメなんだ<br>
+どこにでもいるようなタイプなら<br>
+こんなに好きにはなれないよ<br>
+君だから君だからこんなに好きなんだ<br>
 <br>
 </details>
 
