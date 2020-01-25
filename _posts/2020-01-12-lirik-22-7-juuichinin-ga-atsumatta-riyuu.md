@@ -67,6 +67,7 @@ Tepat di depan mata kita<br>
 <br>
 Akhirnya, kita bisa bertemu<br>
 Kita mengambil langkah kedepan<br>
+<br>
 </details>
 
 ### Kanji

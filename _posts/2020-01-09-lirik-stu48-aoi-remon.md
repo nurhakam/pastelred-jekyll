@@ -66,6 +66,7 @@ Apa alasan diriku hidup?<br>
 "Aku telah menghabiskan sebuah lemon hijau<br>
 Dan diriku dipenuhi rasa bahagia<br>
 Rasanya asam dan pahit, itulah kehidupan!"<br>
+<br>
 </details>
 
 ### Kanji
