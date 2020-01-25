@@ -6,6 +6,7 @@ url     : https://hakam.my.id
 baseurl : /
 title   : Hakam
 tagline : under construction!
+image   : /assets/images/hakam.jpg
 description: >
   Hey there! My name is Hakam. This site is my personal blog. Sometimes I will post some of my thoughts here and I hope you enjoy reading it.
  
@@ -121,7 +122,6 @@ defaults:
       type: posts
     values:
       layout: article
-      image: hakam.my.id/assets/images/hakam.jpg
       aside:
         toc: true
 
