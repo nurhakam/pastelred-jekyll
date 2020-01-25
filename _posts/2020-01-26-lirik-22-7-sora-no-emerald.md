@@ -21,7 +21,7 @@ Lagu lain dari 22/7 :
 | -------- |
 | ![22/7 5th Single Limited Edition Type B](/assets/images/22-7-5th-single-type-b.jpg "22/7 5th Single Limited Edition Type B") |
 
-- Judul : ムズイ (Sora no Emerald / Langit Emerald)
+- Judul : 空のエメラルド (Sora no Emerald / Langit Emerald)
 - Oleh : (Real name / Character)
 	- Nagomi Saijo / Miu Takigawa
 	- Sally Amaki / Sakura Fujima
