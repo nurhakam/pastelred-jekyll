@@ -121,7 +121,7 @@ defaults:
       type: posts
     values:
       layout: article
-      image: /assets/images/hakam.jpg
+      image: hakam.my.id/assets/images/hakam.jpg
       aside:
         toc: true
 
