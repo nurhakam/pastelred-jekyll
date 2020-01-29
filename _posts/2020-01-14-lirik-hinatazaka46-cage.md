@@ -4,23 +4,27 @@ tags: Lirik Hinatazaka46
 key: 20200114a
 description: Lirik lagu Cage Hinatazaka46 terjemahan Bahasa Indonesia. Cage adalah salah satu lagu dalam track single ke-2 Hinatazaka46 (Doremisolasido).
 permalink: /lyric/:title:output_ext
+modify_date: 2020-01-29
 ---
 
-Lirik lagu Cage Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Cage adalah salah satu lagu dalam track single ke-2 Hinatazaka46 (Doremisolasido). Lagu ini dinyanyikan oleh 4 member Hinatazaka46 (ex Hiragana Keyakizaka46) yaitu Higashimura Mei, Kanemura Miku, Kawata Hina, dan Nibu Akari.<!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu Cage [disini](#dengarkan).
+Lirik lagu **Cage** oleh **Hinatazaka46** terjemahan Bahasa Indonesia. *Cage* adalah salah satu lagu dalam track single ke-2 *Hinatazaka46* ( *Doremisolasido* ). Lagu ini dinyanyikan oleh 4 member Hinatazaka46 ( *ex Hiragana Keyakizaka46* ) yaitu Higashimura Mei, Kanemura Miku, Kawata Hina, dan Nibu Akari.<!--more--> Berikut terjemahan lirik dalam **Bahasa Indonesia**, beserta lirik aslinya dalam Kanji, maupun Romanji. Lihat MV lagu Hinatazaka - Cage [disini](#dengarkan).
 
 ## Tentang
 
-| CD Cover |
-| -------- |
-| ![Hinatazaka46 2nd Single Doremisolasido](/assets/images/hinatazaka46-2nd-single-doremisolasido.jpg "Hinatazaka46 2nd Single Doremisolasido") |
+![Hinatazaka46 2nd Single Doremisolasido](/assets/images/hinatazaka46-2nd-single-doremisolasido.jpg "Hinatazaka46 2nd Single Doremisolasido"){:.cdcover .rounded}
 
-- Judul : Cage (Sangkar)
+- Judul : **Cage** ( Sangkar )
 - Oleh :
 	- 1st Generation : Higashimura Mei
     - 2nd Generation : Kanemura Miku, Kawata Hina, Nibu Akari
-- Artist : 日向坂46 (Hinatazaka46)
-- Single : ドレミソラシド (Doremisolasido)
-- Realese Date : 2019.07.17
+- Artist : 日向坂46 ( *Hinatazaka46* )
+- Single : ドレミソラシド ( *Doremisolasido* ) - 2nd Single
+- Realese Date : *2019.07.17*
+
+Lirik lagu Hinatazaka46 lain :
+> 1. [Cage](/lyric/lirik-hinatazaka46-cage.html) (Sangkar)
+> 2. [Sonna Koto Nai yo](/lyric/lirik-hinatazaka46-sonna-koto-nai-yo.html) (Itu Tidak Benar)
+> 3. [Mado wo Akenakutemo](/lyric/lirik-hinatazaka46-mado-wo-akenakutemo.html) (Walau Tanpa Membuka Jendela)
 
 ## Terjemahan 
 

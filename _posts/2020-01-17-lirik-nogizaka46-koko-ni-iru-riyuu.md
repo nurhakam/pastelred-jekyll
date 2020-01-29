@@ -4,25 +4,26 @@ tags: Lirik Nogizaka46
 key: 20200117a
 description: Lirik lagu Koko ni Iru Riyuu oleh Nogizaka46 terjemahan Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song Nogizaka46 9th single dan 4th album.
 permalink: /lyric/:title:output_ext
+modify_date: 2020-01-29
 ---
 
-Lirik lagu Koko ni Iru Riyuu oleh Nogizaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Koko ni Iru Riyuu adalah coupling song dari Nogizaka46 9th single (Natsu no Free & Easy) yang dibawakan oleh Under Members. Lagu ini juga masuk kedalam track Nogizaka46 4th album (Boku Dake no Kimi ~Under Super Best~). <!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu (Nogizaka) Koko ni Iru Riyuu *short ver.* [disini](#dengarkan).
+Lirik lagu **Koko ni Iru Riyuu** oleh **Nogizaka46** terjemahan Bahasa Indonesia. *Koko ni Iru Riyuu* adalah coupling song dari *Nogizaka46* 9th single ( *Natsu no Free & Easy* ) yang dibawakan oleh *Under Members*. Lagu ini juga masuk kedalam track *Nogizaka46* 4th album ( *Boku Dake no Kimi ~Under Super Best~* ). <!--more--> Berikut terjemahan lirik dalam **Bahasa Indonesia**, beserta lirik aslinya dalam Kanji, maupun Romanji. Lihat MV lagu Nogizaka - Koko ni Iru Riyuu *short ver.* [disini](#dengarkan).
 
 ## Tentang
 
-| -------- | -------- |
-| ![Nogizaka46 9th Single Type C](/assets/images/nogizaka46-9th-single-type-c.jpg "Nogizaka46 9th Single Type C") | ![Nogizaka46 4th Album Limited Edition](/assets/images/nogizaka46-4th-album-limited-edition.jpg "Nogizaka46 4th Album Limited Edition") |
+| --- | --- |
+| ![Nogizaka46 9th Single Type C](/assets/images/nogizaka46-9th-single-type-c.jpg "Nogizaka46 9th Single Type C"){:.cdcover .rounded} | ![Nogizaka46 4th Album Limited Edition](/assets/images/nogizaka46-4th-album-limited-edition.jpg "Nogizaka46 4th Album Limited Edition"){:.cdcover .rounded} |
 
-- Judul : ここにいる理由 (Koko ni Iru Riyuu / The Reason for Being Here / Alasan Untuk Berada Disini)
+- Judul : **ここにいる理由** ( *Koko ni Iru Riyuu* / Alasan Untuk Berada Disini )
 - Oleh : Under Members
-	- 1st Generation: Ichiki Rena, Ito Nene, Ito Marika, Kawago Hina, Kawamura Mahiro, Saito Asuka, Saito Chiharu, Nagashima Seira, Nakada Kana, Nakamoto Himeka, Noujou Ami, Hatanaka Seira, Higuchi Hina, Wada Maaya
-	- 2nd Generation: Kitano Hinako, Shinuchi Mai
-- Artist : 乃木坂46 (Nogizaka46)
-- Single : 夏のFree&Easy (Natsu no Free & Easy) (9th single)
-- Album  : 僕だけの君～Under Super Best～ (Boku Dake no Kimi ~Under Super Best~) (4th album)
+	- 1st Generation : Ichiki Rena, Ito Nene, Ito Marika, Kawago Hina, Kawamura Mahiro, Saito Asuka, Saito Chiharu, Nagashima Seira, Nakada Kana, Nakamoto Himeka, Noujou Ami, Hatanaka Seira, Higuchi Hina, Wada Maaya
+	- 2nd Generation : Kitano Hinako, Shinuchi Mai
+- Artist : 乃木坂46 ( *Nogizaka46* )
+- Single : 夏のFree&Easy ( *Natsu no Free & Easy* ) - 9th Single
+- Album  : 僕だけの君～Under Super Best～ ( *Boku Dake no Kimi ~Under Super Best~* ) - 4th Album
 - Realese Date :
-	- Single : 2014.07.09
-	- Album  : 2018.01.10
+	- Single : *2014.07.09*
+	- Album  : *2018.01.10*
 
 ## Terjemahan 
 

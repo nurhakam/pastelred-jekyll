@@ -4,25 +4,24 @@ tags: Lirik 22/7
 key: 20200112a
 description: Lirik lagu Juuichinin ga Atsumatta Riyuu oleh 22/7 terjemahan Bahasa Indonesia. Juuichinin ga Atsumatta Riyuu coupling song single pertama 22/7.
 permalink: /lyric/:title:output_ext
+modify_date: 2020-01-29
 ---
 
-Lirik lagu Juuichinin ga Atsumatta Riyuu oleh 22/7 [terjemahan](#terjemahan) Bahasa Indonesia. Juuichinin ga Atsumatta Riyuu adalah coupling song single pertama 22/7 (Boku wa Sonzai Shiteinakatta). Lagu ini merupakan lagu 22/7 pertama yang dinyanyikan oleh kesebelas member.<!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Dengarkan lagu Juuichinin ga Atsumatta Riyuu [disini](#dengarkan).
-
-Lagu lain dari 22/7 :
-1. [Juuichinin ga Atsumatta Riyuu](https://hakam.my.id/lyric/lirik-22-7-juuichinin-ga-atsumatta-riyuu.html) (Alasan Sebelas dari Kita Bersama)
-2. [Muzui](https://hakam.my.id/lyric/lirik-22-7-muzui.html) (Sulit)
-3. [Sora no Emerald](https://hakam.my.id/lyric/lirik-22-7-sora-no-emerald.html) (Langit Emerald)
+Lirik lagu **Juuichinin ga Atsumatta Riyuu** oleh **22/7** terjemahan Bahasa Indonesia. *Juuichinin ga Atsumatta Riyuu* adalah coupling song single pertama 22/7 ( *Boku wa Sonzai Shiteinakatta* ). Lagu ini merupakan lagu 22/7 pertama yang dinyanyikan oleh kesebelas member.<!--more--> Berikut terjemahan lirik dalam Bahasa Indonesia, beserta lirik aslinya dalam Kanji, maupun Romanji. Dengarkan lagu 22/7 - Juuichinin ga Atsumatta Riyuu [disini](#dengarkan).
 
 ## Tentang
 
-| CD Cover |
-| -------- |
-| ![22/7 1st Single Limited Edition Type A](/assets/images/22-7-1st-single-type-a.jpg "22/7 1st Single Limited Edition Type A") |
+![22/7 1st Single Limited Edition Type A](/assets/images/22-7-1st-single-type-a.jpg "22/7 1st Single Limited Edition Type A"){:.cdcover .rounded}
 
-- Judul : 11人が集まった理由 (Juuichinin ga Atsumatta Riyuu / The Reason The 11 of Us Came Together / Alasan Sebelas dari Kita Bersama)
-- Artist : 22/7 (Nanabun no Nijyuuni)
-- Single : 僕は存在していなかった (Boku wa Sonzai Shiteinakatta / I Did Not Exist / Meskipun Keberadaanku Tak Ada)
-- Realese Date : 2017.09.20
+- Judul : **11人が集まった理由** ( *Juuichinin ga Atsumatta Riyuu* / Alasan Sebelas dari Kita Bersama )
+- Artist : 22/7 ( *Nanabun no Nijyuuni* )
+- Single : 僕は存在していなかった ( *Boku wa Sonzai Shiteinakatta* / Meskipun Keberadaanku Tak Ada ) - 1st Single
+- Realese Date : *2017.09.20*
+
+Lirik lagu lain dari 22/7 :
+> 1. [Juuichinin ga Atsumatta Riyuu](/lyric/lirik-22-7-juuichinin-ga-atsumatta-riyuu.html) (Alasan Sebelas dari Kita Bersama)
+> 2. [Muzui](/lyric/lirik-22-7-muzui.html) (Sulit)
+> 3. [Sora no Emerald](/lyric/lirik-22-7-sora-no-emerald.html) (Langit Emerald)
 
 ## Terjemahan
 

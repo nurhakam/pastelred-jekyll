@@ -4,22 +4,20 @@ tags: Lirik STU48
 key: 20200109a
 description: Lirik lagu Aoi Remon STU48 terjemahan Bahasa Indonesia. Berikut terjemahan lirik Aoi Remon STU48 dalam Bahasa Indonesia, beserta lirik aslinya.
 permalink: /lyric/:title:output_ext
+modify_date: 2020-01-29
 ---
 
-Lirik lagu Aoi Remon STU48 [terjemahan](#terjemahan) Bahasa Indonesia. Aoi remon adalah coupling song single ke-3 STU48 (Daisuki na Hito). Lagu ini masuk kedalam track CD Theater Edition dan dinyanyikan oleh 3 member STU48 yaitu Okada Nana, Kadowaki Miyuna, dan Yano Honoka.<!--more--> Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Dengarkan melalui [Souncloud](#dengarkan).
-
+Lirik lagu **Aoi Remon** oleh **STU48** terjemahan Bahasa Indonesia. *Aoi remon* adalah coupling song single ke-3 *STU48* ( *Daisuki na Hito* ). Lagu ini masuk kedalam track CD Theater Edition dan dinyanyikan oleh 3 member STU48 yaitu Okada Nana, Kadowaki Miyuna, dan Yano Honoka.<!--more--> Berikut terjemahan lirik dalam *Bahasa Indonesia*, beserta lirik aslinya dalam Kanji, maupun Romanji. Dengarkan melalui [Souncloud](#dengarkan).
 
 ## Tentang
 
-| CD Cover |
-| -------- |
-| ![STU48 3rd Single Theater Edition](/assets/images/stu-3rd-single-theater-edition.jpg "STU48 3rd Single Theater Edition") |
+![STU48 3rd Single Theater Edition](/assets/images/stu-3rd-single-theater-edition.jpg "STU48 3rd Single Theater Edition"){:.cdcover .rounded}
 
-- Judul : 青い檸檬 (aoi remon / Green Lemons / Lemon Hijau)
+- Judul : **青い檸檬 **( *aoi remon* / Lemon Hijau )
 - Oleh : STU48 Vocal Senbatsu (Okada Nana, Kadowaki Miyuna, Yano Honoka)
 - Artist : STU48
-- Single : 大好きな人 (Daisuki na Hito / The Person I Love / Orang yang Aku Cintai)
-- Realese Date : 2019.07.31
+- Single : 大好きな人 ( *Daisuki na Hito* / Orang yang Aku Cintai )
+- Realese Date : *2019.07.31*
 
 ## Terjemahan 
 

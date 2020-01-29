@@ -3,7 +3,7 @@
 text_skin: default
 highlight_theme: default
 url     : https://hakam.my.id
-baseurl : /
+baseurl : 
 title   : Hakam
 tagline : under construction!
 description: >
@@ -69,14 +69,9 @@ sources: default
 ## => Comments
 ##############################
 comments:
-  provider: gitalk
-  gitalk:
-    clientID    : 3a5f10fca33f48bfe2d7
-    clientSecret: 7c5613d4cae778d498d0021f58cd9247be548c05
-    repository  : nurhakam.github.io
-    owner       : nurhakam
-    admin:
-      - nurhakam
+  provider: disqus
+  disqus:
+    shortname: "hakam-1"
       
 
 ## => Search

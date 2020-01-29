@@ -4,20 +4,28 @@ tags: Lirik Hinatazaka46
 key: 20200124a
 description: Lirik lagu Sonna Koto Nai yo oleh Hinatazaka46 terjemahan Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama single ke-4 Hinatazaka46 (Sonna Koto Nai yo).
 permalink: /lyric/:title:output_ext
+modify_date: 2020-01-29
 ---
 
-Lirik lagu Sonna Koto Nai yo oleh Hinatazaka46 [terjemahan](#terjemahan) Bahasa Indonesia. Sonna Koto Nai yo adalah lagu utama Hinatazaka46 4th single (Sonna Koto Nai yo), MV lagu ini dirilis setelah MV lagu coupling Seishun no Uma yang menjadi theme song drama terbaru Hinatazaka46 yaitu DASADA.<!--more-->  Dengan genre pop rock, lagu Sonna Koto Nai yo memiliki warna berbeda dari single-single sebelumnya. Berikut terjemahan lirik dalam [Bahasa Indonesia](#bahasa-indonesia), beserta lirik aslinya dalam [Kanji](#kanji), maupun [Romanji](#romanji). Lihat MV lagu (Hinatazaka) Sonna Koto Nai yo [disini](#dengarkan).
+Lirik lagu **Sonna Koto Nai yo** oleh **Hinatazaka46** terjemahan Bahasa Indonesia. *Sonna Koto Nai yo* adalah lagu utama *Hinatazaka46* 4th single ( *Sonna Koto Nai yo* ), MV lagu ini dirilis setelah MV lagu coupling *Seishun no Uma* yang menjadi theme song drama terbaru Hinatazaka46 yaitu DASADA.<!--more-->  Dengan genre pop rock, lagu *Sonna Koto Nai yo* memiliki warna berbeda dari single-single Hinatazaka46 sebelumnya. Berikut terjemahan lirik dalam **Bahasa Indonesia**, beserta lirik aslinya dalam Kanji, maupun Romanji. Lihat MV lagu Hinatazaka - Sonna Koto Nai yo [disini](#dengarkan).
 
 ## Tentang
 
-- Judul : ソンナコトナイヨ (Sonna Koto Nai yo / That's Not True / Itu Tidak Benar)
+![Hinatazaka46 4th Single Limited Edition Type A](/assets/images/hinatazaka46-4th-single-type-a.jpg "Hinatazaka46 4th Single Limited Edition Type A"){:.cdcover .rounded}
+
+- Judul : **ソンナコトナイヨ** ( *Sonna Koto Nai yo* / Itu Tidak Benar )
 - Oleh :
-	- 1st Generation: Ushio Sarina, Kato Shiho, Saito Kyoko, Sasaki Kumi, Sasaki Mirei, Takase Mana, Takamoto Ayaka, Higashimura Mei
-	- 2nd Generation: Kanemura Miku, Kawata Hina, Kosaka Nao, Tomita Suzuka, Nibu Akari, Hamagishi Hiyori, Matsuda Konoka, Miyata Manamo, Watanabe Miho
-	- 3rd Generation: Kamimura Hinano
-- Artist : 日向坂46 (Hinatazaka46)
-- Single : ソンナコトナイヨ (Sonna Koto Nai yo / That's Not True / Itu Tidak Benar) (4th single)
-- Realese Date : 2020.02.19
+	- 1st Generation : Ushio Sarina, Kato Shiho, Saito Kyoko, Sasaki Kumi, Sasaki Mirei, Takase Mana, Takamoto Ayaka, Higashimura Mei
+	- 2nd Generation : Kanemura Miku, Kawata Hina, Kosaka Nao, Tomita Suzuka, Nibu Akari, Hamagishi Hiyori, Matsuda Konoka, Miyata Manamo, Watanabe Miho
+	- 3rd Generation : Kamimura Hinano
+- Artist : 日向坂46 ( *Hinatazaka46* )
+- Single : ソンナコトナイヨ ( *Sonna Koto Nai yo* / Itu Tidak Benar ) - 4th Single
+- Realese Date : *2020.02.19*
+
+Lirik lagu Hinatazaka46 lain :
+> 1. [Cage](/lyric/lirik-hinatazaka46-cage.html) (Sangkar)
+> 2. [Sonna Koto Nai yo](/lyric/lirik-hinatazaka46-sonna-koto-nai-yo.html) (Itu Tidak Benar)
+> 3. [Mado wo Akenakutemo](/lyric/lirik-hinatazaka46-mado-wo-akenakutemo.html) (Walau Tanpa Membuka Jendela)
 
 ## Terjemahan 
 
