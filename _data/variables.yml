@@ -37,6 +37,3 @@ sources:
   default:
     font_awesome: 'https://use.fontawesome.com/releases/v5.12.0/css/all.css'
     jquery: 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'
-    gitalk:
-      js: 'https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.5.0/gitalk.min.js'
-      css: 'https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.5.0/gitalk.min.css'
