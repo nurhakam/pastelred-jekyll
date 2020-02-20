@@ -7,7 +7,7 @@ permalink: /lyric/:title:output_ext
 modify_date: 2020-01-29
 ---
 
-Lirik lagu **Mado wo Akenakutemo** oleh **Hinatazaka46** terjemahan Bahasa Indonesia. *Mado wo Akenakutemo* adalah coupling song *Hinatazaka46* 4th single ( *Sonna Koto Nai yo* ).<!--more--> Berikut terjemahan lirik dalam **Bahasa Indonesia**, beserta lirik aslinya dalam Kanji, maupun Romanji. Lihat MV lagu Hinatazaka - Mado wo Akenakutemo [disini](#dengarkan).
+Lirik lagu **Mado wo Akenakutemo** oleh **Hinatazaka46** terjemahan Bahasa Indonesia. *Mado wo Akenakutemo* adalah coupling song *Hinatazaka46* 4th single ( *Sonna Koto Nai yo* ).<!--more--> Berikut terjemahan lirik dalam **Bahasa Indonesia**, beserta lirik aslinya dalam Kanji, maupun Romanji.
 
 ## Tentang
 
@@ -144,6 +144,3 @@ Mewotojite goran kanjiru hazu sa kaze ga fuite iru yo<br>
 Mune no (mune no) oku ni tooku no yume ga mieru<br>
 <br>
 </details>
-
-## Dengarkan
-<div>{%- include extensions/youtube.html id='lZXMzyUB9YQ' -%}</div>
