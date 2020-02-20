@@ -13,7 +13,7 @@ Lirik lagu **Aoi Remon** oleh **STU48** terjemahan Bahasa Indonesia. *Aoi remon*
 
 ![STU48 3rd Single Theater Edition](/assets/images/stu-3rd-single-theater-edition.jpg "STU48 3rd Single Theater Edition"){:.cdcover .rounded}
 
-- Judul : **青い檸檬 **( *aoi remon* / Lemon Hijau )
+- Judul : **青い檸檬**( *aoi remon* / Lemon Hijau )
 - Oleh : STU48 Vocal Senbatsu (Okada Nana, Kadowaki Miyuna, Yano Honoka)
 - Artist : STU48
 - Single : 大好きな人 ( *Daisuki na Hito* / Orang yang Aku Cintai )
